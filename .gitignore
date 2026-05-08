@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code local state
+.claude/
+
+# Secrets — never commit
+.env
+.env.*
+*.pem
+*.key
+secrets.yaml
+secrets.json
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# If you clone a private skills repo into ./skills/, ignore it
+# (skills/ as shipped in this kit is small and tracked — adjust if needed)
+# /skills/
