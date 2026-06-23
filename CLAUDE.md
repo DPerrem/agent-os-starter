@@ -1,3 +1,8 @@
+> ⚠️ **PUBLIC REPOSITORY — sanitized template only.**
+> This repo (`DPerrem/agent-os-starter`) is **public**. It is a shareable scaffold of the Agent OS structure, NOT a working knowledge base.
+>
+> **Never commit real Perrem business data, credentials, or infrastructure here** — no Supabase project refs / org slugs, no internal dashboard URLs, no deploy config, no client/financial info, no secrets. Anything real and durable belongs in the **private** `DPerrem/HQ` repo. Use only placeholders / `[xx]` examples in this repo. If a task needs real data, switch to the private repo first.
+
 # CLAUDE.md — Project Instructions
 
 > Auto-loaded by Claude Code at session start. This is the most privileged context slot in the system. Keep it stable. Working memory lives in `CURRENT.md`.
